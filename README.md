@@ -17,3 +17,4 @@ I am an aspiring full-stack TS web & mobile developer.
 - ⚙️ Currently Working for Kalogon
 - 📕 Studying Computer Science at UCF
 - 🛜 Hack@UCF Social Team Director
+- ⚡️ [Personal Site](bryantpdev.com)
