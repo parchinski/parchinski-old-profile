@@ -1,4 +1,6 @@
-# Hi There, 👋
+# Hi There, 👋 
+
+I plan to make this dynamic soon
 
 ```
       |\      _,,,---,,_
@@ -6,7 +8,3 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
     '---''(_/--'  `-'\_)
 ```
-
-## About Me ⚛️
-
-I am an aspiring full-stack TS web & mobile developer.
